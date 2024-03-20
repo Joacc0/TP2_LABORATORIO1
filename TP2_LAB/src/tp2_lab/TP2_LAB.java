@@ -14,7 +14,7 @@ public class TP2_LAB {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("este es mi segundo commit");
     }
     
 }
